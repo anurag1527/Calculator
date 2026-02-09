@@ -6,8 +6,8 @@ A modern **Calculator Web App** built using **React + Vite** with a clean pastel
 
 ## 🚀 Live Demo
 
-*(Add your GitHub Pages link here after deployment)*
-👉 [https://your-username.github.io/calculator](https://your-username.github.io/calculator)  
+
+👉 calculator-nine-liart-24.vercel.app
 
 ---
 
